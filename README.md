@@ -98,7 +98,7 @@ The circuit was designed and tested using Multisim. Simulation files and screens
 Project presentation and report:
 
 - [Project Presentation](./project-presentation.pptx)
-- [Project Report](docs/project-report.pdf)
+- [Project Report](./project-report.pdf)
 
 ## Academic Information
 
